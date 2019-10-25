@@ -1,4 +1,10 @@
 # learning_coursera_nlp
 
+## Basics
 
----> Stopped at 001/004
+
+### Linguistics
+
+Morphology, Syntax, Semantics and Pragmatics play an important role
+
+---> Stopped at 001/005
