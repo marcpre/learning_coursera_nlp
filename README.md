@@ -20,5 +20,14 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Example: WordNet (nltk)
 * Further examples: *Normalize capital letters*, *Acronyms* (can be solved by regular expressions)
 
+### Transform Tokens into Words
+* n-grams are a bag of words
+* We can have too much n-grams so we have to remove some and keep the mediam frequency n-grams
+* Term frequency (TF) is the frequency for term t
+* Inverse document frequency (IDF) is the total number of documents in the corpus
+* tfidf value can be reached by a high frequency and a low document frequency of the term in collection of documents
+* Why is TF-IDF better than BOW:
+  * We do not have to have so many n-grams
 
----> Stopped at 002/006
+
+---> Stopped at 002/007
