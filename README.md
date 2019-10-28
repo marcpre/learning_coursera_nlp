@@ -29,5 +29,10 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Why is TF-IDF better than BOW:
   * We do not have to have so many n-grams
 
+### Linear Model for sentiment analysis
+* Examples to use: Baf of 1-grams with TF-IDF values ---> delivers extremely sparse matrix
+* Better: Logistic regression
+* Event better: Deep Learning
 
----> Stopped at 002/007
+
+---> Stopped at 002/008
