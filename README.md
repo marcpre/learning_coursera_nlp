@@ -34,5 +34,14 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Better: Logistic regression
 * Event better: Deep Learning
 
+### SPAM Filtering
+* Using hasing for feature identification works in practice
+* Personalized feature hashing work best for this tasks
+* Linear models - like bag of words - scale well for production
+* Why doing spam classification for large dataset?
+ * Because the simple linear classifier performs better
+ * Examples that shows this statement: ad-click prediction
+
+
 
 ---> Stopped at 002/008
