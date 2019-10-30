@@ -42,6 +42,11 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
  * Because the simple linear classifier performs better
  * Examples that shows this statement: ad-click prediction
 
+### Neural Net for words
+* We create a sparse matrice with bag of words
+* Neural Networks we create a dense representation
+* We take the sum of word3vec vectors, and it can be a good feature!
+* 1D convolution works even better as it analyzes also 2-grams
 
 
----> Stopped at 002/009
+---> Stopped at 003/010
