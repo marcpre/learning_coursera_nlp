@@ -30,7 +30,7 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
   * We do not have to have so many n-grams
 
 ### Linear Model for sentiment analysis
-* Examples to use: Baf of 1-grams with TF-IDF values ---> delivers extremely sparse matrix
+* Examples to use: Bag-of-Words of 1-grams with TF-IDF values ---> delivers extremely sparse matrix
 * Better: Logistic regression
 * Event better: Deep Learning
 
@@ -47,6 +47,12 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Neural Networks we create a dense representation
 * We take the sum of word3vec vectors, and it can be a good feature!
 * 1D convolution works even better as it analyzes also 2-grams
+* If we need to train a neural network on characters we can use n-grams and 1D convolution
+* For the final architecture we take only *1014* characters and apply 1D convolution and max pooling 6 times
+* Apply Multi-Layer Perceptron on the dataset
+* Deep-models work better for large datasets
 
 
----> Stopped at 003/010
+
+
+---> Stopped at 003/011
