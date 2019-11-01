@@ -52,7 +52,9 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Apply Multi-Layer Perceptron on the dataset
 * Deep-models work better for large datasets
 
+### Language Models
+* We can use n-grams to estimate the probability of the next word
 
 
 
----> Stopped at 003/011
+---> Stopped at 004/012
