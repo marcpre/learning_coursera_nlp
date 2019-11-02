@@ -54,7 +54,9 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 
 ### Language Models
 * We can use n-grams to estimate the probability of the next word
+* How to decode which model ist better:
+ * Extrinsic evaluation: spelling correction etc.
+ * Intrinsic evaluation: Hold-out perplexity (we held out data and test the model)
 
 
-
----> Stopped at 004/012
+---> Stopped at 004/013
