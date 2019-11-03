@@ -59,4 +59,6 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
  * Intrinsic evaluation: Hold-out perplexity (we held out data and test the model)
 
 
----> Stopped at 004/013
+
+
+---> Stopped at 004/014
