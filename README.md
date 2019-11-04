@@ -58,7 +58,14 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
  * Extrinsic evaluation: spelling correction etc.
  * Intrinsic evaluation: Hold-out perplexity (we held out data and test the model)
 
+## Hidden Markov Model
+* The Problem: Given a sequence of tokens and sequence of labels. Bring them together.
+* Approaches:
+ * Rule-based models
+ * Seperate label classifiers for each token
+ * Sequence models (HMM, MEMM, CRF)
+ * Neural Networks
+* Use Hidden Markov Models for this task
 
 
-
----> Stopped at 004/014
+---> Stopped at 005/015
