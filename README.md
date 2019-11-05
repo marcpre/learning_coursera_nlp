@@ -66,6 +66,10 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
  * Sequence models (HMM, MEMM, CRF)
  * Neural Networks
 * Use Hidden Markov Models for this task
+* How to apply the Hidden Markov model to our text?
+* The problem of applying is: what is the most probable sequence of hidden states?
+* Solution: Viterbi decoding
 
 
----> Stopped at 005/015
+
+---> Stopped at 005/016
