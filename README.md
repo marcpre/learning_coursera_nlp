@@ -70,6 +70,11 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * The problem of applying is: what is the most probable sequence of hidden states?
 * Solution: Viterbi decoding
 
+## Name Entity recognition
+* Conditional random fields are models that are useful for graph representation
+* For these models, we have to generate features to feed to the model
+* We can use the method label-observation features
 
 
----> Stopped at 005/016
+
+---> Stopped at 005/017
