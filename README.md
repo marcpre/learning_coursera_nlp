@@ -75,6 +75,11 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * For these models, we have to generate features to feed to the model
 * We can use the method label-observation features
 
+## Neural Language Models
+* Curse of dimensionality --> If words are threaten through the model seperately
+* Instead: Learn distributed representations for words --> Use Neural Network
 
 
----> Stopped at 005/017
+
+
+---> Stopped at 006/018
