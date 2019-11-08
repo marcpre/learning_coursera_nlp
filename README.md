@@ -79,7 +79,10 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Curse of dimensionality --> If words are threaten through the model seperately
 * Instead: Learn distributed representations for words --> Use Neural Network
 
+# Recurrent Neural Network
+* Tensorflow tutorial for recurrent neural network 
+* Sequence tagging task is a good example for recurrent neural network
 
 
 
----> Stopped at 006/018
+---> Stopped at 007/020
