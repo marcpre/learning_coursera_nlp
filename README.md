@@ -83,6 +83,10 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Tensorflow tutorial for recurrent neural network 
 * Sequence tagging task is a good example for recurrent neural network
 
+# Distributional semantics
+* We need this in search to determine the most similar results
+* Using "Positive Pointwise Mutual Information", we know if a word is random or not and if is independent
+* Furthermore with PPMI we get only the value without 0
+* Context are words by a sliding window
 
-
----> Stopped at 007/020
+---> Stopped at 007/021
