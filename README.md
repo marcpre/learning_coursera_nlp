@@ -90,6 +90,17 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Context are words by a sliding window
 * Matrix factorization
  * Using singular value decomposition (SVD)
- 
+* Word2vec - 2 Arcitectures 
+ * Continuous Bag-of-words
+ * Continuous Skip-gram
+* Wen can build...
+* Word similarities - How can we evaluate the word similarities of word2vec?
+ * Human judgement
+ * Spearman's correlation
+* Word analogies - How can we evaluate this task?
+ * as above
+* Doc2vec (gensim library)
+ * We can evaluate it by a test dataset
+
 
 ---> Stopped at 007/022
