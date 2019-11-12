@@ -101,6 +101,12 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
  * as above
 * Doc2vec (gensim library)
  * We can evaluate it by a test dataset
+* Challenges with word2vec:
+ * Can have problems within accuracy, when words are not very similar
+ * Has challenges with word analogies
 
 
----> Stopped at 007/022
+
+
+
+---> Stopped at 007/023
