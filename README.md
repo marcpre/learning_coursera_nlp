@@ -104,9 +104,14 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Challenges with word2vec:
  * Can have problems within accuracy, when words are not very similar
  * Has challenges with word analogies
+* Sentence representation
+ * Morphology can help to improve word embeddings
+ * FastText model is a good example
+ * StarSpace tried to build a general approach for learning of words or document embeddings
+ * Deep Learning approaches like CNN, RNN (hierachical + sequence)
+ * Skip-thought vectors: You want to predict the next sentence, hidden representation is called thought vector
 
 
 
 
-
----> Stopped at 007/023
+---> Stopped at 007/024
