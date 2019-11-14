@@ -111,7 +111,14 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
  * Deep Learning approaches like CNN, RNN (hierachical + sequence)
  * Skip-thought vectors: You want to predict the next sentence, hidden representation is called thought vector
 
+# Topic Models
+* Is an alternative way to build vector representation of texts
+* Topics are described with words, It is just a probability distribution
+* Topic Model:
+ * PLSA - was developed in 1999
 
 
 
----> Stopped at 007/024
+
+
+---> Stopped at 008/025
