@@ -116,9 +116,11 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Topics are described with words, It is just a probability distribution
 * Topic Model:
  * PLSA - was developed in 1999
+ * How to train PLSA?
+ * Using EM Algorithm
 
 
 
 
 
----> Stopped at 008/025
+---> Stopped at 008/026
