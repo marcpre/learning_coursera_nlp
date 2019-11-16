@@ -118,9 +118,14 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
  * PLSA - was developed in 1999
  * How to train PLSA?
  * Using EM Algorithm
+* Zoo of Topic Models: 
+* Latend Dirichlet Allocation (most popular topic model)
+* New Path for new topic models is bayesian methods and graphical models
+* Different extensions:
+  * Hierachical topic models
+  * Dynamic topic models - topics can evolve over time
+  * Multilingual topic models
 
 
 
-
-
----> Stopped at 008/026
+---> Stopped at 008/027
