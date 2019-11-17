@@ -126,6 +126,15 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
   * Dynamic topic models - topics can evolve over time
   * Multilingual topic models
 
+# Machine Translation
+* Sources: Europarlament Translations, Book Translations, Wikipedia Translations etc.
+* Problems with data: Noisy, Specific domain, Rare language pairs, not aligend, not enough
+* Evaluation: How to compare two arbitrary translations?
+* BLEU is a popular automatic technique
+* 
 
 
----> Stopped at 008/027
+
+
+
+---> Stopped at 009/028
