@@ -131,10 +131,11 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Problems with data: Noisy, Specific domain, Rare language pairs, not aligend, not enough
 * Evaluation: How to compare two arbitrary translations?
 * BLEU is a popular automatic technique
-* 
+* Decouple the translation task into two models: Language model and Translation model
+* Another idea: noisy chanel is the idea of "transforming" the source into the wanted sentence
 
 
 
 
 
----> Stopped at 009/028
+---> Stopped at 009/029
