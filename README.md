@@ -134,8 +134,10 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Decouple the translation task into two models: Language model and Translation model
 * Another idea: noisy chanel is the idea of "transforming" the source into the wanted sentence
 
+# Word Alignment
+* Using a word alignment matrix to visualize word alignment model
 
 
 
 
----> Stopped at 009/029
+---> Stopped at 009/030
