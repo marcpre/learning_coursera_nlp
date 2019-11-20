@@ -137,7 +137,10 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 # Word Alignment
 * Using a word alignment matrix to visualize word alignment model
 
+# Encoder-decoder attention architecture
+* The task of the encoder is to build a hidden representation of an input
+* Sometimes an encoder is also called thought/context vector
+* 
 
 
-
----> Stopped at 009/030
+---> Stopped at 010/031
