@@ -95,10 +95,10 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
  * Continuous Skip-gram
 * Wen can build...
 * Word similarities - How can we evaluate the word similarities of word2vec?
- * Human judgement
- * Spearman's correlation
+  * Human judgement
+  * Spearman's correlation
 * Word analogies - How can we evaluate this task?
- * as above
+  * as above
 * Doc2vec (gensim library)
  * We can evaluate it by a test dataset
 * Challenges with word2vec:
@@ -142,10 +142,10 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Sometimes an encoder is also called thought/context vector
 * Attentino mechanisn, 3 ways to calculate the weights (dot-product, weigths or via a neural network)
 * Attention saves time
-* 
 
 
 
 
 
----> Stopped at 010/032
+
+---> Stopped at 010/033
