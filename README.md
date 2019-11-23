@@ -142,8 +142,10 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Sometimes an encoder is also called thought/context vector
 * Attentino mechanisn, 3 ways to calculate the weights (dot-product, weigths or via a neural network)
 * Attention saves time
-
-
+* How to implement conversational bots?
+  * What is a chat bot?
+    * Goal-oriented vs chit-chat bot
+       
 
 
 
