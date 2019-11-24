@@ -146,8 +146,11 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
   * What is a chat bot?
     * Goal-oriented vs chit-chat bot
        
+# Summarization and Simplification
+* Summarization is a sequence to sequence task
+  * Two Types, abstractive and extractive
+* F.ex.: Textsum implementation from Google
 
 
 
-
----> Stopped at 010/034
+---> Stopped at 011/035
