@@ -150,6 +150,7 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Summarization is a sequence to sequence task
   * Two Types, abstractive and extractive
 * F.ex.: Textsum implementation from Google
+* One of the most advanced model: Point generator network with coverage
 
 
 
