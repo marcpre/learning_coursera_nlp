@@ -152,6 +152,12 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * F.ex.: Textsum implementation from Google
 * One of the most advanced model: Point generator network with coverage
 
+# Task oriented dialog systems
+* F.ex.: Amazon Alexa etc.
+* "Intends" has to be pre-classified
+* Intend is like a form a user has to fill in
+* 
 
 
----> Stopped at 011/035
+
+---> Stopped at 012/037
