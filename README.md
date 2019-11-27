@@ -156,8 +156,18 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * F.ex.: Amazon Alexa etc.
 * "Intends" has to be pre-classified
 * Intend is like a form a user has to fill in
-* 
+* Intent classifier:
+  * Any model on BOW with n-grams and TF-IDF
+  * RNN
+  * CNN
+* Slot tagger:
+  * Regex
+  * Conditional random fields
+  * RNN seq2seq
+  * CNN seq2seq
+  * Any seq2seq with attention
 
 
 
----> Stopped at 012/037
+
+---> Stopped at 012/038
