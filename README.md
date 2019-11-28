@@ -166,8 +166,10 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
   * RNN seq2seq
   * CNN seq2seq
   * Any seq2seq with attention
+* We need context to handle multi-turn dialog
+  * Using Memory-Networks
+  * NLU can be made context aware with memory networks
 
 
 
-
----> Stopped at 012/038
+---> Stopped at 012/039
