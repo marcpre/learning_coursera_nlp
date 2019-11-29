@@ -164,12 +164,17 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
   * Regex
   * Conditional random fields
   * RNN seq2seq
-  * CNN seq2seq
+  * CNN seq2BIOseq
   * Any seq2seq with attention
 * We need context to handle multi-turn dialog
   * Using Memory-Networks
   * NLU can be made context aware with memory networks
+* Lexicon utilization in NLU
+  * BIOES encoding (Begin, Inside, Outside, End, Single)
+  * We convert this tagging into number and use it in LSTM infrastructure
+  * 
 
 
 
----> Stopped at 012/039
+
+---> Stopped at 012/040
