@@ -172,9 +172,10 @@ Morphology, Syntax, Semantics and Pragmatics play an important role
 * Lexicon utilization in NLU
   * BIOES encoding (Begin, Inside, Outside, End, Single)
   * We convert this tagging into number and use it in LSTM infrastructure
-  * 
+
+# Dialog Manager
+* Uses state tracking to finish user request
 
 
 
-
----> Stopped at 012/040
+---> Stopped at 013/041
